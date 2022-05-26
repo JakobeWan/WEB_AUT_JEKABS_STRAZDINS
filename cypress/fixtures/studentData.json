@@ -1,0 +1,18 @@
+{
+
+  
+  "firstName":"Kristaps",
+  "lastName":"Porzingis",
+  "email":"Kristaps.Porzingis@gmail.com",
+  "gender":"Male",
+  "phoneNumber":"9091001",
+  "month": "February",
+  "year": "1930",
+  "day": "25",
+  "subject": "Economics",
+  "hobby": "Music",
+  "file": "e6fdog.jpeg",
+  "address": "Washington, D.C., USA",
+  "state": "NCR",
+  "city": "Delhi"
+}
